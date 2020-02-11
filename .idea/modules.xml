@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Dagger Implementation.iml" filepath="$PROJECT_DIR$/Dagger Implementation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/DaggerImplementation.iml" filepath="$PROJECT_DIR$/.idea/DaggerImplementation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
